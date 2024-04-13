@@ -1,0 +1,49 @@
+*{
+}
+header{
+	background-color: #32a4ba;
+}
+
+.tt{
+	display: inline-block;
+	width: 800px;
+	padding: 16px;
+	text-align: center;
+	color: white;
+	font-size: 25px;
+	font-family: sans-serif;
+}
+
+.descripcion{
+	background-color: #4fb84d;
+	padding: 10px;
+	font-size: 18px;
+}
+
+.forma{
+	width: 68%;
+	height: 200px;
+	margin: auto;
+	display: inline-block;
+
+}
+
+dt{
+	font-size: 22px;
+	text-transform: uppercase;
+	margin-bottom: 12px;
+	margin-top: 36px;
+}
+
+
+.perfil{
+	width: 300px;
+	border-color: black;
+}
+
+.derecha{
+	display: inline-block;
+	width: 30%;
+	margin-top: 20px;
+	vertical-align:top;
+}
